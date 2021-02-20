@@ -1,14 +1,3 @@
-//==============================================
-// Name:           Gerred Gruenspan
-// Student Number: 155315195
-// Email:          ggruenspan@myseneca.ca
-// Section:        NVV
-// Date:           2020/11/
-//==============================================
-// Assignment:     2
-// Milestone:      3&4
-//==============================================
-
 #ifndef CONTACTS_H_
 #define CONTACTS_H_
 
