@@ -1,14 +1,3 @@
-/* -------------------------------------------
-Name:           Gerred Gruenspan
-Student Number: 155315195
-Email:          ggruenspan@myseneca.ca
-Section:        NVV
-Date:           2020/10/22
-----------------------------------------------
-Assignment: 1
-Milestone:  4
----------------------------------------------- */
-
 // Structure type Name declaration (Milestone 1)
 struct Name {
     char firstName[31];
