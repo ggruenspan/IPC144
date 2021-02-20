@@ -1,14 +1,3 @@
-/* -------------------------------------------
-Name:           Gerred Gruenspan
-Student Number: 155315195
-Email:          ggruenspan@myseneca.ca
-Section:        NVV
-Date:           2020/10/22
-----------------------------------------------
-Assignment: 1
-Milestone:  4
----------------------------------------------- */
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
