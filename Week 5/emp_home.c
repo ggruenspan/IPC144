@@ -1,11 +1,3 @@
-//==============================================
-// Name:           Gerred Gruenspan
-// Student Number: 155315195
-// Email:          ggruenspan@myseneca.ca
-// Section:        NVV
-// Workshop:       5 (at-hom)
-//==============================================
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdbool.h> 
