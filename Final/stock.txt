@@ -1,0 +1,15 @@
+21,1,1.99,0,broccoli
+21,1,1.5,1,potato
+3, 1,1.5,0,carrots
+10,3,12.99,1,steak
+2,3,9.5,1,Italian sausage
+2,4,4.99,0,2% milk
+2,4,3.99,0,coffee cream
+2,2, 3.99,0, white bread
+5,2,4.99,0,chocolate cup cakes
+10,5,4.99,0,all purpose flour
+8,5,5.99,0,whole wheat flour
+5,5,2.99,0,raisins
+2,6,0.99,0,scrub pads
+4,7,13.95,0,laundry detergent
+0
